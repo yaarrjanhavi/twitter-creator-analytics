@@ -1,0 +1,501 @@
+tweet_id,timestamp,text,impressions,likes,replies,retweets,profile_visits,followers_at_post,media_type,hashtags,is_reply,is_thread
+10000197,2025-11-03 07:15:17.009569,Sharing my favorite productivity hack,2460,61,6,6,368,1000,video,"marketing,branding",0,0
+10000062,2025-11-03 08:16:04.906825,Sharing my favorite productivity hack,3093,279,7,34,167,1008,none,"growth,ai",0,1
+10000342,2025-11-03 12:48:54.461802,Sharing some thoughts on growth and marketing,1499,146,8,6,43,1016,image,,0,1
+10000264,2025-11-03 18:24:26.308306,Daily coding progress update,2265,213,3,11,79,1024,video,"coding,learning",0,1
+10000145,2025-11-03 21:08:10.595720,Daily coding progress update,9479,815,36,160,161,1032,image,,0,0
+10000171,2025-11-03 21:45:00.097194,What do you think about this idea?,316,26,1,5,49,1040,video,"growth,ai",0,0
+10000478,2025-11-03 22:58:32.470192,Experimenting with different posting times,13030,1096,86,227,2070,1048,gif,"growth,ai",0,0
+10000184,2025-11-03 23:30:28.956178,New blog post is live now!,2998,282,28,39,476,1056,link,"coding,learning",0,0
+10000006,2025-11-03 23:57:16.275176,Daily coding progress update,383,12,2,2,41,1064,gif,"growth,ai",0,0
+10000050,2025-11-04 01:38:24.642805,Experimenting with different posting times,2916,170,20,38,552,1072,gif,"growth,ai",1,1
+10000441,2025-11-04 02:09:13.908918,Here is a short thread on learning Python,4997,78,25,75,626,1080,gif,"python,data",0,0
+10000259,2025-11-04 02:58:42.754510,Here is a short thread on learning Python,2296,48,12,9,234,1088,gif,"growth,ai",1,0
+10000299,2025-11-04 06:08:19.764081,Experimenting with different posting times,712,54,5,5,115,1096,link,"growth,ai",1,1
+10000252,2025-11-04 11:00:57.542438,Quick tip for data science beginners,671,11,2,12,38,1104,video,"startups,founder",0,1
+10000162,2025-11-04 11:36:00.889136,Quick tip for data science beginners,2239,193,19,33,378,1112,none,"coding,learning",0,0
+10000063,2025-11-04 12:23:53.305445,Trying out a new AI tool,1465,121,13,28,224,1120,none,"coding,learning",0,0
+10000413,2025-11-04 14:47:08.256715,New blog post is live now!,305,6,1,6,26,1128,gif,"startups,founder",0,1
+10000358,2025-11-04 15:08:41.897923,Building a side project this weekend,2411,239,4,4,44,1136,gif,"startups,founder",0,0
+10000483,2025-11-04 15:18:57.251246,Experimenting with different posting times,3586,282,23,56,62,1144,image,"python,data",1,0
+10000329,2025-11-04 18:15:20.860601,Sharing my favorite productivity hack,2971,112,24,57,493,1152,gif,"coding,learning",0,0
+10000254,2025-11-04 21:22:47.812604,Building a side project this weekend,3533,47,27,48,573,1160,gif,"growth,ai",0,0
+10000364,2025-11-04 23:11:37.592474,Here is a short thread on learning Python,4664,277,13,12,236,1168,video,"coding,learning",0,1
+10000454,2025-11-05 01:56:31.687749,Quick tip for data science beginners,3418,34,25,51,368,1176,image,"startups,founder",0,0
+10000432,2025-11-05 04:17:50.854937,Trying out a new AI tool,3466,88,32,11,318,1184,video,"python,data",0,0
+10000047,2025-11-05 06:58:31.189436,Building a side project this weekend,3606,282,4,14,67,1192,link,"startups,founder",0,1
+10000112,2025-11-05 07:15:20.800273,Trying out a new AI tool,1739,153,16,21,247,1200,video,productivity,1,1
+10000128,2025-11-05 09:56:23.790406,Building a side project this weekend,4277,386,35,34,253,1208,video,"marketing,branding",0,0
+10000115,2025-11-05 14:12:59.663268,Building a side project this weekend,4762,145,30,42,721,1216,video,,0,1
+10000230,2025-11-05 14:43:19.234188,Sharing my favorite productivity hack,307,14,1,5,3,1224,video,productivity,0,1
+10000022,2025-11-05 15:06:49.405504,New blog post is live now!,3610,283,11,54,288,1232,gif,,0,0
+10000126,2025-11-05 15:18:23.090657,Here is a short thread on learning Python,1411,122,11,12,193,1240,link,productivity,0,0
+10000426,2025-11-05 16:29:14.357287,Here is a short thread on learning Python,2024,84,13,16,302,1248,video,"coding,learning",0,0
+10000080,2025-11-05 18:20:16.843180,Daily coding progress update,3407,154,16,62,259,1256,video,"marketing,branding",0,1
+10000044,2025-11-05 18:39:43.519927,Daily coding progress update,417,20,0,1,80,1264,gif,,1,0
+10000068,2025-11-05 20:09:50.343684,Sharing some thoughts on growth and marketing,1350,97,2,6,69,1272,none,"growth,ai",0,1
+10000328,2025-11-05 20:31:20.563119,Experimenting with different posting times,4833,105,16,43,435,1280,video,"growth,ai",0,1
+10000013,2025-11-05 21:10:28.989736,Daily coding progress update,602,47,3,6,54,1288,none,"coding,learning",0,0
+10000304,2025-11-06 00:23:35.682375,Here is a short thread on learning Python,1999,76,6,33,354,1296,none,,0,0
+10000067,2025-11-06 01:24:38.792526,Building a side project this weekend,4880,474,6,88,538,1304,gif,productivity,1,0
+10000203,2025-11-06 01:30:00.553584,Daily coding progress update,1464,27,10,14,256,1312,link,"coding,learning",0,0
+10000149,2025-11-06 03:26:47.946428,Experimenting with different posting times,4672,62,24,58,287,1320,link,"growth,ai",0,0
+10000271,2025-11-06 06:31:26.043811,Daily coding progress update,1143,91,3,5,155,1328,video,"coding,learning",0,0
+10000300,2025-11-06 06:59:58.717110,Daily coding progress update,2796,230,15,54,249,1336,video,productivity,1,0
+10000023,2025-11-06 07:28:08.093075,What do you think about this idea?,2030,169,16,9,216,1344,video,"python,data",0,1
+10000088,2025-11-06 08:12:42.961377,Building a side project this weekend,402,17,2,5,32,1352,gif,"python,data",0,1
+10000482,2025-11-06 11:41:50.777987,Sharing some thoughts on growth and marketing,3870,334,18,8,97,1360,link,"growth,ai",0,0
+10000429,2025-11-06 14:09:55.864728,Sharing some thoughts on growth and marketing,2861,264,3,28,559,1368,none,"python,data",0,0
+10000215,2025-11-06 15:01:22.372585,Here is a short thread on learning Python,240,9,0,2,14,1376,link,"marketing,branding",0,0
+10000179,2025-11-06 16:33:21.179857,Trying out a new AI tool,4533,241,29,32,643,1384,video,"growth,ai",1,1
+10000360,2025-11-06 16:55:03.878113,Experimenting with different posting times,3275,150,24,23,460,1392,gif,"python,data",0,0
+10000138,2025-11-06 18:25:11.245531,Sharing some thoughts on growth and marketing,2915,97,18,8,304,1400,video,productivity,0,0
+10000053,2025-11-06 18:49:42.420354,What do you think about this idea?,4617,178,39,11,760,1408,video,,0,0
+10000490,2025-11-06 19:20:56.333421,Building a side project this weekend,12534,193,89,30,533,1416,video,"python,data",0,0
+10000276,2025-11-06 19:59:06.000912,What do you think about this idea?,1306,40,5,4,211,1424,none,productivity,0,1
+10000077,2025-11-06 20:35:32.194346,New blog post is live now!,11366,480,22,160,1237,1432,link,productivity,0,0
+10000045,2025-11-06 22:04:57.352608,Experimenting with different posting times,1765,163,8,11,49,1440,gif,productivity,0,1
+10000283,2025-11-07 03:07:24.267253,New blog post is live now!,975,13,1,6,60,1448,gif,"python,data",0,1
+10000137,2025-11-07 03:32:11.074368,Sharing my favorite productivity hack,2954,191,28,26,565,1456,image,productivity,0,0
+10000193,2025-11-07 05:48:52.007135,Building a side project this weekend,3469,108,33,18,597,1464,none,productivity,0,0
+10000265,2025-11-07 11:01:21.479785,Sharing some thoughts on growth and marketing,3778,203,8,30,334,1472,link,"python,data",0,1
+10000491,2025-11-07 12:38:31.503578,Trying out a new AI tool,4727,456,27,51,408,1480,gif,"startups,founder",0,0
+10000253,2025-11-07 12:51:39.285204,Daily coding progress update,4954,343,44,66,627,1488,image,"startups,founder",0,0
+10000152,2025-11-07 13:45:45.853793,Here is a short thread on learning Python,1063,31,10,17,28,1496,none,"python,data",0,1
+10000278,2025-11-07 14:50:54.349361,Daily coding progress update,2271,101,13,28,102,1505,image,"coding,learning",0,0
+10000384,2025-11-07 14:51:31.761699,Quick tip for data science beginners,4502,54,40,72,712,1513,gif,productivity,0,0
+10000439,2025-11-07 18:11:19.951823,Daily coding progress update,7300,475,49,46,1063,1521,image,"startups,founder",0,0
+10000434,2025-11-07 21:38:05.149077,Sharing my favorite productivity hack,11727,733,67,76,121,1529,video,"python,data",0,0
+10000109,2025-11-07 22:39:04.395969,Building a side project this weekend,7686,413,35,122,94,1537,image,"python,data",0,0
+10000488,2025-11-08 03:25:34.481596,Here is a short thread on learning Python,1198,30,6,17,170,1545,link,,0,0
+10000436,2025-11-08 04:21:35.952618,Sharing some thoughts on growth and marketing,4496,280,14,45,862,1553,gif,"growth,ai",0,1
+10000443,2025-11-08 04:25:13.734449,New blog post is live now!,2534,166,19,38,276,1561,image,"python,data",0,0
+10000029,2025-11-08 06:49:59.682735,Sharing some thoughts on growth and marketing,3283,62,22,6,133,1569,image,"marketing,branding",0,0
+10000352,2025-11-08 06:55:24.999006,Building a side project this weekend,2767,148,24,34,224,1577,video,productivity,0,0
+10000341,2025-11-08 07:01:25.790671,New blog post is live now!,3859,114,38,39,543,1585,none,productivity,0,0
+10000386,2025-11-08 07:19:44.159524,Here is a short thread on learning Python,1341,83,13,8,148,1593,gif,productivity,0,0
+10000318,2025-11-08 09:36:50.368899,Experimenting with different posting times,760,11,6,9,24,1601,gif,,0,1
+10000466,2025-11-08 09:42:33.137853,What do you think about this idea?,4416,266,17,26,338,1609,link,"growth,ai",0,0
+10000159,2025-11-08 13:40:19.441449,Quick tip for data science beginners,1083,35,1,15,20,1617,link,productivity,0,1
+10000325,2025-11-08 14:03:05.050752,Building a side project this weekend,4896,51,5,29,83,1625,link,productivity,0,0
+10000268,2025-11-08 15:27:31.111818,Daily coding progress update,3662,139,28,61,464,1633,link,productivity,0,0
+10000114,2025-11-08 16:29:12.396798,Here is a short thread on learning Python,1892,38,18,32,63,1641,none,,1,1
+10000313,2025-11-08 18:34:39.493220,Trying out a new AI tool,8013,660,9,154,1186,1649,link,,0,1
+10000028,2025-11-08 20:47:43.400208,Building a side project this weekend,13018,1043,88,45,529,1657,gif,"growth,ai",1,0
+10000311,2025-11-08 21:36:23.487007,Daily coding progress update,3205,164,28,37,263,1665,video,"coding,learning",1,0
+10000379,2025-11-08 23:49:07.152661,Sharing some thoughts on growth and marketing,6025,127,28,65,523,1673,gif,"growth,ai",0,0
+10000207,2025-11-09 00:02:10.607863,New blog post is live now!,4883,379,8,35,150,1681,none,"startups,founder",0,1
+10000317,2025-11-09 01:18:02.776473,Here is a short thread on learning Python,2624,224,9,25,159,1689,gif,"marketing,branding",0,0
+10000094,2025-11-09 03:47:37.169947,Sharing some thoughts on growth and marketing,3548,111,6,16,201,1697,image,"python,data",0,0
+10000216,2025-11-09 05:42:22.013772,Daily coding progress update,205,13,1,1,18,1705,link,"coding,learning",0,0
+10000074,2025-11-09 08:23:11.312610,Building a side project this weekend,4884,417,25,46,302,1713,link,,0,1
+10000406,2025-11-09 08:38:46.285531,What do you think about this idea?,2279,191,20,26,111,1721,video,"coding,learning",0,0
+10000447,2025-11-09 08:44:43.427137,Trying out a new AI tool,4451,207,23,11,222,1729,image,"growth,ai",0,1
+10000339,2025-11-09 10:44:54.297505,Here is a short thread on learning Python,106,2,0,0,4,1737,image,productivity,0,0
+10000211,2025-11-09 12:46:56.609608,Trying out a new AI tool,3115,218,20,32,255,1745,image,"marketing,branding",1,0
+10000084,2025-11-09 13:30:09.017170,New blog post is live now!,1987,104,13,10,92,1753,gif,productivity,0,0
+10000255,2025-11-09 16:18:58.402954,Sharing some thoughts on growth and marketing,247,18,1,1,18,1761,image,"startups,founder",0,0
+10000485,2025-11-09 16:58:41.203684,Quick tip for data science beginners,3621,266,16,22,446,1769,link,"python,data",1,1
+10000245,2025-11-09 20:07:49.793655,Here is a short thread on learning Python,5446,204,36,62,495,1777,image,productivity,0,1
+10000122,2025-11-09 20:19:54.285230,Daily coding progress update,3393,204,8,17,589,1785,none,"python,data",1,0
+10000033,2025-11-09 21:45:41.532340,What do you think about this idea?,8576,471,52,135,156,1793,gif,"python,data",1,0
+10000005,2025-11-10 01:37:27.796319,Trying out a new AI tool,2924,33,9,18,408,1801,video,"growth,ai",0,1
+10000079,2025-11-10 03:02:39.637643,Quick tip for data science beginners,3378,272,22,55,613,1809,image,"startups,founder",0,1
+10000021,2025-11-10 03:06:30.919280,Sharing some thoughts on growth and marketing,954,33,8,6,35,1817,link,productivity,0,1
+10000296,2025-11-10 03:57:02.836032,Quick tip for data science beginners,4502,124,12,16,350,1825,link,"growth,ai",0,0
+10000117,2025-11-10 04:18:02.168023,What do you think about this idea?,1054,53,2,5,110,1833,link,"python,data",0,1
+10000008,2025-11-10 04:56:10.116152,Experimenting with different posting times,3898,221,37,67,592,1841,image,"startups,founder",0,0
+10000035,2025-11-10 06:36:50.398630,What do you think about this idea?,3270,321,5,24,151,1849,image,"python,data",0,0
+10000168,2025-11-10 11:49:36.747338,Sharing my favorite productivity hack,1017,75,5,3,24,1857,none,"growth,ai",1,1
+10000123,2025-11-10 13:25:45.355079,Sharing some thoughts on growth and marketing,1581,143,9,25,309,1865,video,"coding,learning",1,1
+10000156,2025-11-10 14:12:17.921714,New blog post is live now!,2014,91,15,29,79,1873,video,"startups,founder",1,0
+10000233,2025-11-10 15:14:22.487974,Daily coding progress update,1112,93,8,16,18,1881,none,"growth,ai",0,0
+10000258,2025-11-10 15:40:39.977627,What do you think about this idea?,1927,125,15,26,213,1889,gif,"marketing,branding",0,1
+10000344,2025-11-10 15:42:22.852407,Daily coding progress update,223,8,2,2,37,1897,link,"coding,learning",1,0
+10000310,2025-11-10 15:58:58.465891,Trying out a new AI tool,4038,61,36,55,711,1905,none,"python,data",0,0
+10000081,2025-11-10 18:38:40.861498,Building a side project this weekend,4737,312,41,90,179,1913,none,,1,0
+10000083,2025-11-10 19:29:43.161065,Daily coding progress update,1883,117,8,27,83,1921,link,productivity,0,0
+10000208,2025-11-10 19:45:59.123128,New blog post is live now!,1767,123,14,27,285,1929,none,"marketing,branding",0,1
+10000440,2025-11-10 21:04:04.960081,Trying out a new AI tool,250,3,2,0,19,1937,none,"marketing,branding",0,0
+10000227,2025-11-11 01:23:34.816498,Trying out a new AI tool,2664,43,18,18,326,1945,video,productivity,0,0
+10000438,2025-11-11 03:22:54.716212,What do you think about this idea?,1879,145,17,18,111,1953,link,productivity,0,1
+10000039,2025-11-11 04:42:33.476964,Sharing my favorite productivity hack,3050,168,24,41,437,1961,video,"coding,learning",0,1
+10000218,2025-11-11 07:51:33.670026,What do you think about this idea?,135,6,0,2,10,1969,video,"startups,founder",0,0
+10000446,2025-11-11 08:26:04.325533,Sharing my favorite productivity hack,1458,22,12,10,137,1977,gif,"startups,founder",0,0
+10000183,2025-11-11 08:29:15.253170,Quick tip for data science beginners,527,10,3,7,8,1985,none,,1,0
+10000096,2025-11-11 10:05:43.929424,Sharing some thoughts on growth and marketing,567,55,4,9,33,1993,link,"startups,founder",0,0
+10000231,2025-11-11 11:23:03.933004,Daily coding progress update,2662,248,8,24,103,2002,none,"growth,ai",1,1
+10000001,2025-11-11 11:27:16.869725,Building a side project this weekend,3544,227,26,8,688,2010,none,"python,data",1,0
+10000316,2025-11-11 14:14:53.563364,Sharing some thoughts on growth and marketing,167,14,1,1,12,2018,link,productivity,1,0
+10000052,2025-11-11 15:34:25.460490,Sharing some thoughts on growth and marketing,4013,114,13,23,327,2026,video,"startups,founder",0,0
+10000105,2025-11-11 17:50:25.495527,Sharing some thoughts on growth and marketing,3862,255,22,38,462,2034,image,"startups,founder",0,0
+10000139,2025-11-11 18:40:59.332111,Sharing my favorite productivity hack,559,22,2,5,80,2042,video,"startups,founder",0,0
+10000354,2025-11-11 18:51:38.269691,Quick tip for data science beginners,9260,594,58,152,930,2050,gif,"marketing,branding",1,0
+10000400,2025-11-11 18:53:09.338825,Quick tip for data science beginners,10091,208,36,92,1863,2058,video,"marketing,branding",1,0
+10000452,2025-11-11 19:17:04.881223,New blog post is live now!,381,32,1,4,61,2066,gif,"growth,ai",1,0
+10000071,2025-11-11 19:51:20.465698,Sharing my favorite productivity hack,8005,406,10,56,705,2074,link,productivity,0,0
+10000129,2025-11-11 21:25:08.554028,Sharing my favorite productivity hack,12606,517,100,107,2188,2082,link,"startups,founder",0,1
+10000290,2025-11-11 21:45:44.720385,Here is a short thread on learning Python,11429,346,98,111,420,2090,image,"marketing,branding",0,0
+10000287,2025-11-11 21:55:57.452677,Sharing my favorite productivity hack,12957,428,89,72,1521,2098,video,"python,data",0,1
+10000026,2025-11-11 22:46:48.939866,Sharing some thoughts on growth and marketing,10584,323,27,208,1144,2106,link,"coding,learning",0,1
+10000392,2025-11-12 00:58:32.949915,Building a side project this weekend,2449,119,3,12,231,2114,video,productivity,0,0
+10000397,2025-11-12 01:56:05.270976,Here is a short thread on learning Python,2119,68,14,29,86,2122,video,"growth,ai",0,1
+10000433,2025-11-12 04:17:51.014194,Daily coding progress update,3654,249,12,8,706,2130,image,"startups,founder",0,0
+10000065,2025-11-12 06:52:36.816165,Sharing my favorite productivity hack,1343,82,10,21,223,2138,link,"marketing,branding",0,0
+10000456,2025-11-12 09:18:32.223644,Experimenting with different posting times,3711,140,9,23,225,2146,video,"growth,ai",0,1
+10000487,2025-11-12 11:27:09.163057,Quick tip for data science beginners,3639,344,20,69,612,2154,video,productivity,0,1
+10000196,2025-11-12 13:54:39.318825,Sharing my favorite productivity hack,3566,319,17,28,339,2162,link,,0,0
+10000372,2025-11-12 14:16:40.716131,Sharing my favorite productivity hack,1028,36,2,14,194,2170,video,"coding,learning",0,0
+10000058,2025-11-12 14:17:29.604527,Quick tip for data science beginners,4271,179,41,60,434,2178,none,"growth,ai",0,0
+10000465,2025-11-12 14:29:44.106089,Quick tip for data science beginners,3506,56,23,11,285,2186,link,"growth,ai",1,0
+10000489,2025-11-12 15:02:31.238466,Here is a short thread on learning Python,1974,152,16,18,96,2194,video,"growth,ai",0,0
+10000191,2025-11-12 16:33:46.460486,New blog post is live now!,3911,346,35,37,244,2202,gif,"python,data",0,1
+10000034,2025-11-12 17:37:42.580989,Sharing some thoughts on growth and marketing,1169,107,5,2,217,2210,none,"startups,founder",0,1
+10000359,2025-11-12 22:09:24.799569,Quick tip for data science beginners,5242,407,41,72,815,2218,video,,1,0
+10000272,2025-11-13 00:56:31.451791,New blog post is live now!,2185,54,5,19,188,2226,video,productivity,1,0
+10000153,2025-11-13 03:35:53.112382,Building a side project this weekend,3515,183,22,17,697,2234,image,"python,data",0,1
+10000125,2025-11-13 05:46:07.853617,Daily coding progress update,3410,208,30,40,501,2242,none,"growth,ai",1,1
+10000189,2025-11-13 06:26:53.340877,Daily coding progress update,1002,51,8,15,151,2250,video,"python,data",0,0
+10000472,2025-11-13 06:42:56.069314,New blog post is live now!,3616,269,12,20,251,2258,video,"coding,learning",0,0
+10000011,2025-11-13 08:47:18.236334,Quick tip for data science beginners,3199,280,21,25,70,2266,image,"growth,ai",0,0
+10000371,2025-11-13 14:10:59.970165,New blog post is live now!,3999,267,29,8,166,2274,none,,0,0
+10000375,2025-11-13 16:07:05.083160,Daily coding progress update,4844,335,25,86,246,2282,link,"coding,learning",0,0
+10000172,2025-11-13 17:10:10.540432,Sharing my favorite productivity hack,3878,370,9,37,734,2290,none,"marketing,branding",0,0
+10000078,2025-11-13 17:37:03.119097,Trying out a new AI tool,4463,372,43,16,716,2298,none,"growth,ai",0,0
+10000247,2025-11-13 18:23:21.104869,Sharing some thoughts on growth and marketing,8811,194,42,142,1062,2306,image,"startups,founder",0,0
+10000369,2025-11-13 18:36:28.371864,New blog post is live now!,988,17,9,16,34,2314,none,"coding,learning",0,1
+10000420,2025-11-13 20:27:55.864715,What do you think about this idea?,3468,317,3,55,116,2322,link,,0,0
+10000163,2025-11-13 21:35:22.694208,Here is a short thread on learning Python,11177,302,99,215,1100,2330,video,productivity,1,0
+10000444,2025-11-13 22:59:07.762615,Building a side project this weekend,6312,368,21,54,1136,2338,image,"marketing,branding",0,1
+10000187,2025-11-13 23:59:43.260874,What do you think about this idea?,2456,170,13,29,360,2346,none,"coding,learning",0,1
+10000297,2025-11-14 02:14:53.396469,Daily coding progress update,4754,131,43,54,451,2354,none,,0,0
+10000131,2025-11-14 05:55:19.009063,Building a side project this weekend,3286,184,25,47,284,2362,none,"marketing,branding",0,0
+10000241,2025-11-14 07:25:34.536067,Sharing some thoughts on growth and marketing,4323,211,16,48,404,2370,none,"coding,learning",0,0
+10000025,2025-11-14 07:38:05.942962,Sharing my favorite productivity hack,3076,140,17,52,425,2378,link,"coding,learning",0,0
+10000294,2025-11-14 09:38:15.424844,What do you think about this idea?,3148,190,24,37,361,2386,none,"marketing,branding",0,0
+10000240,2025-11-14 10:05:32.517338,Building a side project this weekend,1148,80,2,12,121,2394,video,"growth,ai",0,0
+10000498,2025-11-14 13:29:57.420411,Building a side project this weekend,2140,207,10,15,345,2402,video,"startups,founder",0,0
+10000423,2025-11-14 17:16:59.350815,Trying out a new AI tool,758,34,1,13,30,2410,link,"growth,ai",0,0
+10000477,2025-11-14 18:24:39.318881,Trying out a new AI tool,1463,116,11,6,75,2418,none,"growth,ai",0,0
+10000017,2025-11-14 21:52:12.885002,Quick tip for data science beginners,3402,311,11,46,34,2426,none,"growth,ai",0,0
+10000103,2025-11-15 02:13:58.005582,Daily coding progress update,972,75,7,16,44,2434,video,"growth,ai",0,0
+10000182,2025-11-15 03:15:19.238924,Sharing some thoughts on growth and marketing,1017,39,9,5,144,2442,video,"growth,ai",1,0
+10000042,2025-11-15 04:54:30.891651,Sharing some thoughts on growth and marketing,2760,157,21,16,354,2450,none,"python,data",0,0
+10000248,2025-11-15 07:08:44.139917,Sharing some thoughts on growth and marketing,1000,29,1,6,195,2458,link,"growth,ai",1,1
+10000104,2025-11-15 08:35:04.477227,Daily coding progress update,2721,115,24,24,449,2466,gif,"growth,ai",0,0
+10000192,2025-11-15 08:54:01.881488,Daily coding progress update,3814,251,25,57,133,2474,none,productivity,0,1
+10000251,2025-11-15 09:18:59.440502,Sharing some thoughts on growth and marketing,3593,162,34,15,105,2482,gif,productivity,0,1
+10000092,2025-11-15 10:06:25.577051,Daily coding progress update,166,11,0,2,24,2490,gif,"python,data",0,0
+10000495,2025-11-15 13:10:11.633091,Daily coding progress update,3394,331,17,58,74,2498,image,"marketing,branding",0,0
+10000376,2025-11-15 15:25:58.332683,Here is a short thread on learning Python,261,11,2,1,39,2507,link,"coding,learning",1,0
+10000236,2025-11-15 16:23:52.774785,Daily coding progress update,4685,258,21,54,605,2515,link,"marketing,branding",0,0
+10000004,2025-11-15 16:34:31.305120,New blog post is live now!,3656,236,9,11,695,2523,gif,,1,1
+10000235,2025-11-15 18:34:14.637451,Experimenting with different posting times,1789,114,10,33,186,2531,none,productivity,1,1
+10000158,2025-11-15 19:33:50.817658,Experimenting with different posting times,2407,33,20,6,174,2539,link,"python,data",1,1
+10000148,2025-11-15 20:14:35.424780,Building a side project this weekend,12502,720,118,204,2495,2547,gif,"growth,ai",0,1
+10000072,2025-11-15 21:49:08.374687,Here is a short thread on learning Python,8759,736,83,131,1108,2555,link,"marketing,branding",0,1
+10000095,2025-11-15 22:30:58.979686,Experimenting with different posting times,4394,398,7,50,386,2563,link,productivity,1,0
+10000144,2025-11-15 23:41:29.042572,Here is a short thread on learning Python,9358,122,68,68,1737,2571,image,"growth,ai",1,1
+10000210,2025-11-16 01:35:18.298138,What do you think about this idea?,4086,183,20,25,330,2579,link,"marketing,branding",0,0
+10000246,2025-11-16 02:34:30.063092,Quick tip for data science beginners,867,23,3,8,144,2587,link,"growth,ai",0,1
+10000120,2025-11-16 03:55:35.735081,Experimenting with different posting times,2582,74,23,14,119,2595,image,"marketing,branding",0,0
+10000089,2025-11-16 04:15:42.190922,Experimenting with different posting times,4721,109,10,67,804,2603,link,"coding,learning",0,0
+10000280,2025-11-16 05:24:08.602746,Experimenting with different posting times,4776,409,12,78,463,2611,none,"startups,founder",0,0
+10000349,2025-11-16 07:14:45.858399,Here is a short thread on learning Python,2934,82,13,7,294,2619,gif,"python,data",0,0
+10000243,2025-11-16 07:42:43.987112,Sharing my favorite productivity hack,4837,259,37,63,321,2627,gif,,0,0
+10000398,2025-11-16 09:15:25.291795,Trying out a new AI tool,185,11,1,2,15,2635,video,"python,data",0,1
+10000198,2025-11-16 11:30:56.238605,Trying out a new AI tool,3668,269,18,64,425,2643,video,"startups,founder",0,0
+10000200,2025-11-16 11:33:37.469580,Sharing some thoughts on growth and marketing,3928,70,7,49,552,2651,gif,"coding,learning",0,0
+10000237,2025-11-16 12:17:45.511333,Building a side project this weekend,233,5,0,3,16,2659,link,"startups,founder",0,0
+10000076,2025-11-16 15:55:49.438908,What do you think about this idea?,4278,138,21,18,818,2667,video,,0,0
+10000289,2025-11-16 19:14:05.219518,Here is a short thread on learning Python,1632,93,3,28,240,2675,link,"python,data",0,1
+10000463,2025-11-16 19:22:44.354422,Sharing my favorite productivity hack,1851,155,8,19,23,2683,gif,"marketing,branding",0,0
+10000383,2025-11-16 20:16:41.189680,Quick tip for data science beginners,2903,196,17,35,394,2691,none,,0,1
+10000374,2025-11-16 23:05:58.506211,Daily coding progress update,326,14,0,5,29,2699,none,productivity,1,1
+10000389,2025-11-16 23:08:17.485729,New blog post is live now!,3273,118,17,58,472,2707,none,"marketing,branding",0,0
+10000405,2025-11-16 23:38:50.278714,Daily coding progress update,7215,255,30,130,1369,2715,link,"coding,learning",1,0
+10000106,2025-11-17 01:50:05.003669,Here is a short thread on learning Python,4133,243,37,54,133,2723,link,"startups,founder",1,0
+10000169,2025-11-17 02:49:09.943962,Here is a short thread on learning Python,786,76,6,3,121,2731,video,,0,0
+10000335,2025-11-17 03:28:46.711081,Experimenting with different posting times,2098,29,4,25,157,2739,video,"startups,founder",0,0
+10000249,2025-11-17 03:39:37.777231,Here is a short thread on learning Python,263,11,0,3,27,2747,none,"startups,founder",0,0
+10000097,2025-11-17 03:48:10.922566,Quick tip for data science beginners,4389,263,26,30,685,2755,video,"growth,ai",0,0
+10000479,2025-11-17 07:40:13.224816,Here is a short thread on learning Python,3675,144,33,73,613,2763,image,"startups,founder",1,0
+10000219,2025-11-17 11:57:46.914743,Sharing some thoughts on growth and marketing,1400,125,4,8,176,2771,link,,0,1
+10000226,2025-11-17 12:03:45.758769,Here is a short thread on learning Python,172,6,0,1,3,2779,video,"python,data",0,0
+10000324,2025-11-17 12:36:48.854155,Trying out a new AI tool,4636,184,24,25,584,2787,image,"coding,learning",0,0
+10000293,2025-11-17 13:18:52.473417,Daily coding progress update,1191,93,6,6,210,2795,video,productivity,1,1
+10000054,2025-11-17 13:38:57.011679,Quick tip for data science beginners,1616,152,2,15,313,2803,gif,"growth,ai",0,0
+10000448,2025-11-17 17:40:45.335648,Sharing some thoughts on growth and marketing,3081,212,10,15,124,2811,none,productivity,0,0
+10000365,2025-11-17 18:28:24.022491,Here is a short thread on learning Python,6407,563,32,107,739,2819,image,"growth,ai",0,0
+10000102,2025-11-17 18:52:05.032555,Daily coding progress update,10554,277,16,161,1257,2827,image,,1,0
+10000070,2025-11-17 19:28:30.423246,Sharing some thoughts on growth and marketing,5177,208,13,70,433,2835,video,"python,data",0,0
+10000402,2025-11-17 20:11:01.891416,Quick tip for data science beginners,8201,663,26,99,640,2843,video,"coding,learning",0,0
+10000368,2025-11-17 20:18:32.091919,Experimenting with different posting times,3091,43,10,45,67,2851,gif,"growth,ai",1,0
+10000357,2025-11-17 21:32:22.853283,Here is a short thread on learning Python,10658,892,42,161,1176,2859,video,"python,data",0,1
+10000086,2025-11-17 23:13:49.887195,Trying out a new AI tool,4663,336,6,76,602,2867,link,,0,1
+10000419,2025-11-18 01:22:14.300170,Daily coding progress update,660,49,3,12,68,2875,video,"startups,founder",0,0
+10000212,2025-11-18 01:53:01.346391,Building a side project this weekend,2601,240,21,10,99,2883,none,"startups,founder",0,0
+10000496,2025-11-18 02:12:04.203211,New blog post is live now!,3956,343,37,13,329,2891,link,productivity,0,0
+10000201,2025-11-18 02:23:56.085965,Building a side project this weekend,225,21,1,3,21,2899,image,,0,0
+10000056,2025-11-18 04:47:10.196240,Experimenting with different posting times,4232,133,30,64,233,2907,gif,"coding,learning",0,0
+10000314,2025-11-18 06:05:22.350886,Experimenting with different posting times,1631,109,8,9,53,2915,gif,"growth,ai",0,0
+10000301,2025-11-18 10:02:54.673829,Building a side project this weekend,4464,174,44,87,601,2923,image,"startups,founder",0,0
+10000303,2025-11-18 12:29:53.769066,Here is a short thread on learning Python,364,30,2,5,25,2931,link,"marketing,branding",0,1
+10000281,2025-11-18 12:33:28.209087,Trying out a new AI tool,3431,49,31,63,542,2939,none,,0,0
+10000142,2025-11-18 13:32:51.102336,Trying out a new AI tool,438,33,3,6,61,2947,video,"marketing,branding",1,0
+10000217,2025-11-18 14:12:40.826362,Here is a short thread on learning Python,3279,86,18,48,99,2955,video,"startups,founder",0,0
+10000455,2025-11-18 19:25:11.612539,Experimenting with different posting times,1739,132,15,7,227,2963,video,productivity,0,0
+10000113,2025-11-18 22:35:38.659936,Sharing some thoughts on growth and marketing,8706,380,14,29,259,2971,video,"python,data",1,1
+10000399,2025-11-19 01:20:26.998918,New blog post is live now!,2317,90,20,35,65,2979,link,"startups,founder",0,0
+10000334,2025-11-19 03:08:27.929560,Building a side project this weekend,486,28,1,1,43,2987,none,"python,data",0,0
+10000416,2025-11-19 05:43:39.271376,Experimenting with different posting times,252,5,1,4,36,2995,none,,0,1
+10000319,2025-11-19 07:14:14.118752,Daily coding progress update,1158,98,10,14,125,3004,none,"python,data",0,0
+10000232,2025-11-19 08:18:25.548419,Experimenting with different posting times,463,14,3,1,27,3012,link,,0,1
+10000307,2025-11-19 08:33:08.643684,Building a side project this weekend,823,62,1,6,8,3020,none,,0,0
+10000403,2025-11-19 12:08:15.034707,New blog post is live now!,253,23,0,2,13,3028,none,"coding,learning",0,0
+10000098,2025-11-19 13:31:29.510277,Building a side project this weekend,1910,53,14,22,275,3036,image,,0,0
+10000121,2025-11-19 14:54:46.888063,Experimenting with different posting times,3595,226,13,53,396,3044,link,productivity,0,0
+10000288,2025-11-19 15:09:53.826585,Sharing some thoughts on growth and marketing,4579,444,12,10,672,3052,none,"growth,ai",0,0
+10000387,2025-11-19 15:56:04.395994,Here is a short thread on learning Python,3971,66,17,24,187,3060,image,"startups,founder",0,0
+10000378,2025-11-19 16:39:42.655427,Quick tip for data science beginners,4313,346,25,16,606,3068,none,"startups,founder",0,1
+10000312,2025-11-19 20:11:28.049270,Building a side project this weekend,1061,50,1,20,36,3076,link,"marketing,branding",0,1
+10000468,2025-11-19 20:12:50.095969,Daily coding progress update,2485,133,2,40,389,3084,link,,0,0
+10000185,2025-11-19 21:01:41.797127,Experimenting with different posting times,1585,93,13,16,209,3092,link,,0,1
+10000073,2025-11-19 21:53:16.975222,New blog post is live now!,2302,190,22,10,282,3100,gif,,0,1
+10000394,2025-11-19 22:11:36.379555,Sharing my favorite productivity hack,13977,1391,103,274,1652,3108,link,productivity,0,0
+10000244,2025-11-19 23:46:11.439251,Quick tip for data science beginners,7306,272,13,105,159,3116,video,"coding,learning",0,1
+10000111,2025-11-20 00:24:30.519115,Quick tip for data science beginners,914,32,5,16,33,3124,video,productivity,0,0
+10000016,2025-11-20 01:30:55.883794,Building a side project this weekend,3160,279,26,16,567,3132,none,"growth,ai",0,1
+10000404,2025-11-20 02:29:57.771223,Sharing some thoughts on growth and marketing,2501,177,7,24,366,3140,link,"marketing,branding",0,0
+10000040,2025-11-20 02:34:02.547463,Quick tip for data science beginners,1266,55,2,15,21,3148,video,"growth,ai",0,0
+10000266,2025-11-20 03:21:56.761433,What do you think about this idea?,614,22,3,8,108,3156,video,"growth,ai",0,1
+10000467,2025-11-20 03:45:57.079840,New blog post is live now!,2721,118,11,7,208,3164,video,"startups,founder",1,0
+10000330,2025-11-20 04:36:47.092602,Quick tip for data science beginners,3841,127,5,49,539,3172,gif,"marketing,branding",0,0
+10000407,2025-11-20 09:22:34.752100,Sharing some thoughts on growth and marketing,4307,374,12,14,99,3180,video,"marketing,branding",1,0
+10000108,2025-11-20 09:28:17.437989,Experimenting with different posting times,2436,31,14,38,430,3188,gif,"marketing,branding",0,1
+10000031,2025-11-20 09:30:39.875885,Building a side project this weekend,1318,91,8,4,105,3196,link,productivity,0,0
+10000382,2025-11-20 09:46:43.699782,Sharing my favorite productivity hack,2892,60,9,6,190,3204,link,"growth,ai",0,0
+10000449,2025-11-20 17:39:22.838077,Trying out a new AI tool,2168,167,16,36,205,3212,link,productivity,1,0
+10000484,2025-11-20 18:15:21.514043,New blog post is live now!,10252,485,47,92,237,3220,gif,"marketing,branding",0,1
+10000435,2025-11-20 18:33:54.687765,Here is a short thread on learning Python,14127,149,112,187,1143,3228,link,"python,data",0,0
+10000306,2025-11-20 22:09:17.252146,New blog post is live now!,2967,195,12,50,295,3236,image,productivity,1,0
+10000343,2025-11-21 02:36:38.889058,Here is a short thread on learning Python,1357,61,5,6,139,3244,video,"python,data",0,1
+10000367,2025-11-21 04:44:55.257217,Quick tip for data science beginners,1135,62,4,5,147,3252,image,,0,1
+10000238,2025-11-21 05:18:22.496387,Sharing some thoughts on growth and marketing,3078,126,30,41,511,3260,gif,"growth,ai",0,1
+10000059,2025-11-21 10:12:11.569586,Quick tip for data science beginners,3240,117,12,45,495,3268,video,"marketing,branding",0,1
+10000041,2025-11-21 10:31:34.252539,Here is a short thread on learning Python,1248,106,10,8,21,3276,none,,0,0
+10000119,2025-11-21 10:59:43.677187,Trying out a new AI tool,3801,332,22,20,254,3284,link,"startups,founder",0,0
+10000385,2025-11-21 12:12:26.130558,Sharing some thoughts on growth and marketing,743,67,5,14,92,3292,video,"marketing,branding",0,0
+10000116,2025-11-21 12:42:24.829286,Sharing some thoughts on growth and marketing,674,31,5,12,66,3300,gif,productivity,0,1
+10000457,2025-11-21 13:37:08.474562,Quick tip for data science beginners,2510,150,11,24,283,3308,image,"coding,learning",0,1
+10000414,2025-11-21 13:52:45.248581,Sharing some thoughts on growth and marketing,409,25,2,1,46,3316,gif,"python,data",0,0
+10000401,2025-11-21 14:38:43.206825,Experimenting with different posting times,2752,146,18,9,44,3324,gif,,0,0
+10000250,2025-11-21 16:44:55.413025,Building a side project this weekend,2657,62,10,40,266,3332,video,"coding,learning",0,0
+10000181,2025-11-21 16:49:15.768861,Experimenting with different posting times,2820,170,3,22,305,3340,gif,"python,data",0,0
+10000221,2025-11-21 19:36:11.300378,Daily coding progress update,9155,723,21,88,357,3348,gif,"marketing,branding",0,1
+10000229,2025-11-22 01:55:32.636806,Trying out a new AI tool,4311,66,26,82,186,3356,none,"coding,learning",0,0
+10000000,2025-11-22 05:03:50.659590,Sharing some thoughts on growth and marketing,960,25,7,12,90,3364,video,productivity,0,0
+10000337,2025-11-22 05:50:50.395773,Quick tip for data science beginners,3359,101,14,33,403,3372,gif,productivity,0,0
+10000141,2025-11-22 07:03:48.467267,Sharing my favorite productivity hack,4190,404,33,60,456,3380,gif,"marketing,branding",0,1
+10000204,2025-11-22 07:50:18.432148,Here is a short thread on learning Python,2574,184,14,33,450,3388,image,"startups,founder",0,0
+10000133,2025-11-22 08:10:41.174195,Sharing my favorite productivity hack,4024,335,22,12,350,3396,video,"marketing,branding",0,1
+10000146,2025-11-22 09:05:06.277376,Quick tip for data science beginners,230,16,0,3,5,3404,none,productivity,0,0
+10000024,2025-11-22 10:31:31.048532,Trying out a new AI tool,2911,206,3,32,154,3412,none,"python,data",0,0
+10000445,2025-11-22 14:17:44.877536,New blog post is live now!,2917,194,9,42,266,3420,none,,0,0
+10000134,2025-11-22 15:07:38.000700,Experimenting with different posting times,441,9,4,7,54,3428,image,"marketing,branding",0,0
+10000174,2025-11-22 15:32:08.347616,Sharing some thoughts on growth and marketing,1955,172,14,23,194,3436,video,"startups,founder",0,0
+10000213,2025-11-22 16:34:16.905825,Building a side project this weekend,2930,133,17,45,427,3444,video,,0,1
+10000462,2025-11-22 16:51:22.128154,Here is a short thread on learning Python,2779,216,14,49,135,3452,none,"marketing,branding",0,0
+10000458,2025-11-22 17:20:34.005022,What do you think about this idea?,548,15,2,6,65,3460,image,"python,data",0,1
+10000461,2025-11-22 18:05:48.633524,Daily coding progress update,773,46,5,11,44,3468,link,productivity,0,1
+10000418,2025-11-22 19:13:25.476139,Experimenting with different posting times,5820,85,13,33,793,3476,gif,"growth,ai",0,0
+10000284,2025-11-22 21:35:12.375422,Experimenting with different posting times,3571,279,18,57,80,3484,none,"python,data",0,0
+10000340,2025-11-22 23:21:14.933206,Experimenting with different posting times,3187,142,25,40,93,3492,link,"growth,ai",1,0
+10000007,2025-11-23 01:04:18.875385,Sharing some thoughts on growth and marketing,4898,420,24,44,911,3501,gif,"growth,ai",0,0
+10000027,2025-11-23 01:16:52.106185,Here is a short thread on learning Python,3823,230,34,20,240,3509,none,,0,1
+10000037,2025-11-23 01:29:15.085432,Building a side project this weekend,3001,126,9,21,213,3517,link,"python,data",1,0
+10000199,2025-11-23 02:37:27.425012,Sharing some thoughts on growth and marketing,2481,37,14,46,43,3525,video,"growth,ai",0,0
+10000188,2025-11-23 06:15:08.831140,What do you think about this idea?,3020,164,5,27,156,3533,gif,"growth,ai",0,0
+10000261,2025-11-23 06:55:47.493926,Quick tip for data science beginners,3797,360,12,15,180,3541,link,"coding,learning",1,0
+10000262,2025-11-23 07:26:29.283959,Here is a short thread on learning Python,4166,293,16,74,246,3549,gif,"python,data",0,0
+10000350,2025-11-23 08:10:31.420662,Building a side project this weekend,3262,299,24,37,571,3557,image,"python,data",0,1
+10000421,2025-11-23 08:24:04.593481,New blog post is live now!,4869,240,15,71,804,3565,gif,"python,data",0,1
+10000206,2025-11-23 09:52:50.800362,Here is a short thread on learning Python,2508,49,17,50,48,3573,none,"marketing,branding",1,0
+10000363,2025-11-23 10:35:15.087894,Quick tip for data science beginners,2655,232,12,19,103,3581,none,"marketing,branding",0,0
+10000124,2025-11-23 10:53:36.274343,Sharing some thoughts on growth and marketing,3179,39,9,19,437,3589,gif,"coding,learning",0,0
+10000460,2025-11-23 14:48:26.348143,What do you think about this idea?,1448,114,10,23,276,3597,gif,"coding,learning",0,0
+10000411,2025-11-23 17:37:49.503228,Sharing my favorite productivity hack,3256,121,10,6,483,3605,gif,"python,data",1,0
+10000480,2025-11-23 18:11:28.807389,Building a side project this weekend,3341,324,28,60,626,3613,video,,1,0
+10000348,2025-11-23 18:32:10.870622,New blog post is live now!,3362,96,27,51,225,3621,gif,"marketing,branding",0,1
+10000136,2025-11-23 20:15:02.570267,Daily coding progress update,6295,404,20,56,408,3629,video,"marketing,branding",0,1
+10000492,2025-11-23 20:39:43.054495,New blog post is live now!,7118,121,54,26,874,3637,image,,0,0
+10000370,2025-11-23 23:09:29.664771,What do you think about this idea?,1974,181,8,38,53,3645,image,"coding,learning",0,0
+10000051,2025-11-23 23:47:42.981800,Daily coding progress update,9849,698,60,42,1616,3653,link,"growth,ai",1,0
+10000220,2025-11-24 00:26:30.859545,Sharing my favorite productivity hack,2731,216,16,18,184,3661,gif,"startups,founder",0,1
+10000321,2025-11-24 01:14:51.899351,Building a side project this weekend,4700,344,14,52,140,3669,image,"growth,ai",0,0
+10000459,2025-11-24 01:22:09.157232,Quick tip for data science beginners,2707,174,5,21,100,3677,video,,0,0
+10000305,2025-11-24 01:30:43.976264,Sharing my favorite productivity hack,3931,70,29,37,715,3685,gif,"python,data",0,0
+10000020,2025-11-24 04:28:04.894953,Building a side project this weekend,3557,263,8,70,215,3693,gif,productivity,1,0
+10000234,2025-11-24 06:14:23.256710,Building a side project this weekend,1701,75,7,10,181,3701,video,"python,data",1,0
+10000298,2025-11-24 07:33:33.354542,Quick tip for data science beginners,3024,276,10,59,111,3709,link,"startups,founder",0,0
+10000453,2025-11-24 07:43:27.141779,Trying out a new AI tool,3042,197,7,42,134,3717,image,productivity,0,0
+10000275,2025-11-24 08:22:21.777814,Daily coding progress update,641,63,1,10,69,3725,video,productivity,0,0
+10000309,2025-11-24 08:38:02.658172,Here is a short thread on learning Python,4728,61,17,65,890,3733,video,productivity,1,1
+10000355,2025-11-24 08:43:05.812340,New blog post is live now!,2484,214,22,7,441,3741,video,"startups,founder",0,0
+10000302,2025-11-24 08:49:00.887119,Daily coding progress update,2500,31,21,14,205,3749,link,productivity,1,0
+10000274,2025-11-24 12:42:39.679910,New blog post is live now!,693,44,0,5,90,3757,gif,"marketing,branding",0,0
+10000345,2025-11-24 13:07:27.525916,New blog post is live now!,2036,91,8,23,79,3765,link,productivity,0,0
+10000346,2025-11-24 13:10:03.095804,Experimenting with different posting times,2490,123,9,16,116,3773,link,"startups,founder",0,0
+10000285,2025-11-24 15:47:25.562551,What do you think about this idea?,2743,180,16,22,191,3781,video,"coding,learning",0,0
+10000431,2025-11-24 17:26:22.321657,Trying out a new AI tool,2534,72,13,17,163,3789,none,"python,data",0,1
+10000140,2025-11-24 17:38:37.065585,Daily coding progress update,4326,73,4,84,47,3797,gif,,0,0
+10000267,2025-11-24 18:05:48.669904,What do you think about this idea?,1077,89,8,19,67,3805,gif,"growth,ai",0,1
+10000190,2025-11-24 21:30:26.362442,Trying out a new AI tool,3942,218,23,44,479,3813,gif,"marketing,branding",0,0
+10000391,2025-11-25 00:14:37.831809,Quick tip for data science beginners,2883,158,20,9,179,3821,image,,1,0
+10000464,2025-11-25 01:32:19.510899,Sharing my favorite productivity hack,2582,91,7,7,260,3829,link,"growth,ai",0,1
+10000223,2025-11-25 02:04:06.409804,Building a side project this weekend,749,24,5,2,27,3837,video,"marketing,branding",0,0
+10000417,2025-11-25 02:04:32.022545,What do you think about this idea?,4299,112,8,70,142,3845,gif,"growth,ai",0,1
+10000180,2025-11-25 04:09:25.985894,Daily coding progress update,878,46,1,5,173,3853,gif,"coding,learning",0,0
+10000424,2025-11-25 07:46:43.351240,What do you think about this idea?,3193,225,26,20,411,3861,link,"python,data",0,1
+10000494,2025-11-25 10:13:07.533776,Experimenting with different posting times,2302,175,8,37,459,3869,link,"marketing,branding",0,1
+10000090,2025-11-25 13:10:18.767422,Sharing my favorite productivity hack,3445,173,19,21,210,3877,video,,0,0
+10000269,2025-11-25 13:19:54.398691,Trying out a new AI tool,2647,151,22,45,445,3885,none,productivity,0,1
+10000475,2025-11-25 17:01:52.196212,New blog post is live now!,2825,218,8,32,471,3893,none,"marketing,branding",0,0
+10000308,2025-11-25 17:05:20.488775,Quick tip for data science beginners,4319,428,7,14,322,3901,link,productivity,1,0
+10000002,2025-11-25 18:34:35.691562,Quick tip for data science beginners,2511,143,12,18,317,3909,image,,0,0
+10000147,2025-11-25 19:00:11.171559,What do you think about this idea?,2658,151,12,47,237,3917,gif,,0,1
+10000428,2025-11-25 20:09:49.026495,Trying out a new AI tool,1638,132,12,6,259,3925,image,productivity,0,0
+10000186,2025-11-25 22:22:32.373279,Sharing some thoughts on growth and marketing,5530,293,36,43,549,3933,link,productivity,0,1
+10000286,2025-11-25 23:34:49.827118,Quick tip for data science beginners,2332,162,22,28,438,3941,link,"growth,ai",0,0
+10000381,2025-11-26 00:09:18.370000,Sharing my favorite productivity hack,3858,114,8,67,460,3949,image,,0,0
+10000353,2025-11-26 00:59:13.373402,Here is a short thread on learning Python,2554,114,14,27,305,3957,image,"growth,ai",1,1
+10000409,2025-11-26 01:11:22.910514,Daily coding progress update,4006,225,20,11,260,3965,link,"growth,ai",1,0
+10000069,2025-11-26 02:33:31.332032,Daily coding progress update,3737,233,34,10,236,3973,gif,,1,1
+10000338,2025-11-26 03:40:58.741860,New blog post is live now!,2141,92,2,19,235,3981,none,productivity,0,0
+10000256,2025-11-26 05:15:39.376622,Daily coding progress update,662,16,1,9,102,3989,image,"startups,founder",0,0
+10000214,2025-11-26 07:15:07.382824,Building a side project this weekend,1114,101,1,21,149,3997,link,"python,data",0,0
+10000408,2025-11-26 07:30:57.874835,Experimenting with different posting times,1490,123,12,11,211,4006,image,"growth,ai",0,0
+10000380,2025-11-26 07:43:31.439369,What do you think about this idea?,4736,245,45,53,657,4014,none,"growth,ai",0,1
+10000257,2025-11-26 09:29:23.189627,Here is a short thread on learning Python,3391,308,27,20,662,4022,none,"marketing,branding",0,0
+10000060,2025-11-26 10:01:45.810733,Building a side project this weekend,2256,211,22,44,46,4030,none,"growth,ai",0,0
+10000228,2025-11-26 11:58:24.842263,Sharing my favorite productivity hack,4253,169,29,84,577,4038,video,"coding,learning",0,1
+10000332,2025-11-26 13:01:38.724089,Here is a short thread on learning Python,4106,193,27,55,733,4046,gif,"marketing,branding",0,0
+10000166,2025-11-26 17:34:49.658536,Daily coding progress update,1107,21,8,12,213,4054,video,"python,data",0,0
+10000279,2025-11-26 19:54:24.691826,Experimenting with different posting times,9029,566,65,169,1432,4062,gif,"marketing,branding",0,1
+10000061,2025-11-26 21:24:57.858624,Daily coding progress update,8479,665,55,32,220,4070,gif,"coding,learning",0,0
+10000333,2025-11-26 22:49:35.068333,Here is a short thread on learning Python,4758,438,30,84,702,4078,none,"marketing,branding",0,1
+10000202,2025-11-27 01:17:12.983616,Building a side project this weekend,4023,85,8,18,758,4086,gif,"marketing,branding",0,0
+10000170,2025-11-27 02:11:15.252652,Sharing my favorite productivity hack,4099,325,29,41,254,4094,none,"python,data",1,0
+10000046,2025-11-27 04:30:19.802296,Building a side project this weekend,3443,194,23,33,511,4102,none,"python,data",0,0
+10000347,2025-11-27 06:18:50.725623,Trying out a new AI tool,1656,160,9,13,199,4110,image,productivity,0,0
+10000157,2025-11-27 06:58:46.005872,Here is a short thread on learning Python,992,57,6,12,27,4118,image,"marketing,branding",1,0
+10000009,2025-11-27 07:01:20.705281,New blog post is live now!,4959,320,17,36,205,4126,video,"startups,founder",0,0
+10000087,2025-11-27 10:02:39.103548,Here is a short thread on learning Python,2978,130,3,52,77,4134,none,"startups,founder",0,1
+10000165,2025-11-27 14:13:09.710606,Sharing some thoughts on growth and marketing,3217,126,19,13,262,4142,video,,0,1
+10000410,2025-11-27 17:33:24.548399,Here is a short thread on learning Python,4376,345,4,41,478,4150,gif,"marketing,branding",0,1
+10000154,2025-11-27 17:56:29.186091,Experimenting with different posting times,984,83,2,2,81,4158,video,"startups,founder",0,1
+10000135,2025-11-27 19:34:35.711145,Sharing some thoughts on growth and marketing,1307,111,6,20,117,4166,gif,"coding,learning",0,1
+10000351,2025-11-27 20:57:53.244453,What do you think about this idea?,912,64,4,2,177,4174,video,productivity,1,0
+10000010,2025-11-27 21:01:18.213214,Daily coding progress update,4126,46,11,61,660,4182,gif,,0,1
+10000164,2025-11-27 22:25:24.080913,Sharing some thoughts on growth and marketing,5645,434,13,94,948,4190,gif,"startups,founder",0,0
+10000471,2025-11-27 22:39:56.372551,Sharing my favorite productivity hack,6920,338,55,120,781,4198,image,"marketing,branding",0,0
+10000015,2025-11-27 22:43:20.779434,Building a side project this weekend,6030,571,38,87,1069,4206,image,productivity,0,0
+10000373,2025-11-27 23:02:46.977792,Here is a short thread on learning Python,1416,20,6,27,148,4214,none,"coding,learning",0,0
+10000291,2025-11-28 00:16:57.944092,Experimenting with different posting times,197,17,1,3,12,4222,image,"marketing,branding",0,0
+10000327,2025-11-28 01:37:00.344363,What do you think about this idea?,4748,397,27,84,566,4230,image,"marketing,branding",0,0
+10000469,2025-11-28 04:11:02.713961,What do you think about this idea?,349,20,1,2,48,4238,link,"python,data",0,0
+10000161,2025-11-28 04:59:10.126904,New blog post is live now!,1691,117,9,29,252,4246,gif,"growth,ai",0,1
+10000470,2025-11-28 05:25:03.115347,What do you think about this idea?,143,10,0,0,25,4254,gif,"growth,ai",0,1
+10000205,2025-11-28 07:22:07.423899,Daily coding progress update,1963,160,18,25,370,4262,none,"coding,learning",1,0
+10000390,2025-11-28 11:10:50.218752,Daily coding progress update,2152,117,6,6,191,4270,link,"coding,learning",0,1
+10000224,2025-11-28 11:14:06.893187,Here is a short thread on learning Python,3829,177,18,57,542,4278,gif,"coding,learning",1,0
+10000143,2025-11-28 11:29:10.881207,Daily coding progress update,3826,276,5,53,70,4286,image,"marketing,branding",0,1
+10000018,2025-11-28 12:05:32.465084,Sharing my favorite productivity hack,809,45,3,4,26,4294,gif,,0,1
+10000270,2025-11-28 13:07:35.987340,Daily coding progress update,2734,213,23,28,288,4302,video,"growth,ai",0,0
+10000209,2025-11-28 13:38:07.932205,Quick tip for data science beginners,1467,53,10,11,190,4310,gif,"python,data",0,0
+10000481,2025-11-28 14:47:02.332966,New blog post is live now!,1574,157,4,4,138,4318,image,"coding,learning",0,0
+10000151,2025-11-28 14:57:54.586825,Experimenting with different posting times,245,7,0,0,48,4326,image,"coding,learning",0,0
+10000486,2025-11-28 15:04:39.631500,What do you think about this idea?,2687,154,7,53,527,4334,video,"marketing,branding",0,1
+10000101,2025-11-28 15:07:44.092294,Building a side project this weekend,2138,174,4,37,324,4342,video,"coding,learning",0,1
+10000361,2025-11-28 15:46:17.399017,Sharing my favorite productivity hack,3755,75,31,71,89,4350,video,"startups,founder",1,0
+10000295,2025-11-28 17:07:36.184116,New blog post is live now!,1167,68,6,4,157,4358,link,,1,0
+10000132,2025-11-28 17:15:28.240690,Sharing some thoughts on growth and marketing,2641,260,15,13,163,4366,gif,"coding,learning",0,1
+10000082,2025-11-28 20:42:52.501224,Here is a short thread on learning Python,5884,83,38,48,292,4374,link,"growth,ai",0,0
+10000014,2025-11-29 00:45:42.795419,Trying out a new AI tool,963,64,3,10,175,4382,image,,0,0
+10000032,2025-11-29 01:33:14.038226,What do you think about this idea?,3536,190,32,34,270,4390,video,"python,data",0,0
+10000093,2025-11-29 02:26:54.590213,Building a side project this weekend,2572,103,23,33,145,4398,none,"python,data",0,0
+10000277,2025-11-29 02:41:51.107974,Daily coding progress update,1936,49,13,21,84,4406,gif,productivity,0,1
+10000425,2025-11-29 05:03:13.932059,Experimenting with different posting times,4790,318,15,23,218,4414,none,productivity,0,0
+10000282,2025-11-29 07:30:24.885242,Experimenting with different posting times,785,50,1,12,105,4422,video,"coding,learning",1,0
+10000019,2025-11-29 10:21:42.979692,Sharing some thoughts on growth and marketing,3545,105,21,32,79,4430,link,"python,data",0,0
+10000422,2025-11-29 10:23:11.377827,Sharing some thoughts on growth and marketing,2486,120,9,26,80,4438,gif,"python,data",1,1
+10000239,2025-11-29 11:17:52.267844,What do you think about this idea?,4359,281,9,79,730,4446,video,"python,data",0,1
+10000055,2025-11-29 13:00:43.104181,Sharing my favorite productivity hack,3067,253,30,28,247,4454,gif,"startups,founder",0,0
+10000322,2025-11-29 13:08:58.811248,Experimenting with different posting times,3001,100,10,31,590,4462,gif,"python,data",0,0
+10000242,2025-11-29 13:26:28.937855,Daily coding progress update,1984,22,12,16,165,4470,link,productivity,0,0
+10000036,2025-11-29 14:36:48.525454,Here is a short thread on learning Python,2165,130,20,31,256,4478,image,"python,data",0,0
+10000430,2025-11-29 14:58:54.666517,Building a side project this weekend,1441,86,3,17,70,4486,none,productivity,0,0
+10000415,2025-11-29 16:03:39.374809,What do you think about this idea?,4449,278,42,12,268,4494,video,,0,0
+10000292,2025-11-29 16:42:13.298817,Building a side project this weekend,4766,244,6,76,230,4503,video,"python,data",0,0
+10000437,2025-11-29 17:57:14.684265,Building a side project this weekend,4813,368,14,67,503,4511,none,"growth,ai",0,0
+10000323,2025-11-29 18:12:44.170428,What do you think about this idea?,2361,77,10,24,44,4519,none,,0,0
+10000003,2025-11-29 20:31:56.423366,Here is a short thread on learning Python,1075,33,1,14,88,4527,none,"coding,learning",1,0
+10000160,2025-11-29 22:01:17.634583,What do you think about this idea?,4572,77,39,49,463,4535,link,"growth,ai",0,1
+10000118,2025-11-29 22:59:33.193008,Experimenting with different posting times,10621,710,11,148,465,4543,gif,"startups,founder",1,0
+10000167,2025-11-30 00:38:34.226944,What do you think about this idea?,1345,104,10,6,210,4551,image,"startups,founder",1,0
+10000155,2025-11-30 04:20:38.739525,Here is a short thread on learning Python,3945,323,26,23,427,4559,image,productivity,0,0
+10000064,2025-11-30 04:42:58.477790,What do you think about this idea?,3023,182,14,55,94,4567,image,"python,data",0,0
+10000396,2025-11-30 05:55:41.049210,Sharing some thoughts on growth and marketing,4814,219,46,93,407,4575,image,"growth,ai",1,1
+10000066,2025-11-30 06:58:12.781947,Daily coding progress update,4385,201,23,15,484,4583,video,"marketing,branding",0,1
+10000130,2025-11-30 07:24:04.355882,Building a side project this weekend,1487,33,13,16,267,4591,gif,,0,0
+10000222,2025-11-30 08:36:24.629123,Building a side project this weekend,4868,143,9,11,642,4599,none,,0,0
+10000225,2025-11-30 15:54:50.702519,Sharing my favorite productivity hack,3702,238,14,67,580,4607,image,"coding,learning",0,0
+10000150,2025-11-30 15:59:57.327207,Daily coding progress update,3530,201,26,7,348,4615,image,"startups,founder",0,1
+10000366,2025-11-30 16:00:16.797362,What do you think about this idea?,1111,41,4,13,36,4623,video,productivity,1,1
+10000195,2025-11-30 16:52:07.932013,What do you think about this idea?,2213,193,2,27,273,4631,gif,,0,0
+10000442,2025-11-30 17:12:35.875229,What do you think about this idea?,1427,57,12,12,148,4639,link,"startups,founder",0,1
+10000038,2025-11-30 21:33:47.621407,Sharing my favorite productivity hack,4441,188,16,73,727,4647,none,"marketing,branding",1,1
+10000395,2025-12-01 04:01:09.726392,Building a side project this weekend,969,63,9,5,155,4655,none,"python,data",1,1
+10000057,2025-12-01 06:03:39.632752,What do you think about this idea?,695,58,2,12,58,4663,none,productivity,0,1
+10000176,2025-12-01 07:05:43.663818,Quick tip for data science beginners,792,72,7,4,77,4671,link,"coding,learning",0,0
+10000497,2025-12-01 13:57:25.949708,New blog post is live now!,862,45,2,3,36,4679,link,productivity,0,1
+10000427,2025-12-01 15:05:01.292518,Trying out a new AI tool,3204,114,15,45,234,4687,link,"marketing,branding",0,0
+10000085,2025-12-01 15:21:06.503584,Building a side project this weekend,4799,198,6,56,535,4695,none,"python,data",0,1
+10000263,2025-12-01 16:34:53.842892,Sharing my favorite productivity hack,2808,275,21,33,124,4703,gif,,0,0
+10000326,2025-12-01 17:06:28.113339,Here is a short thread on learning Python,440,21,1,4,8,4711,image,productivity,0,1
+10000356,2025-12-01 18:48:53.080848,Quick tip for data science beginners,5270,61,27,75,776,4719,image,"coding,learning",0,0
+10000493,2025-12-01 19:14:12.850571,Quick tip for data science beginners,11722,377,84,149,1234,4727,gif,productivity,1,0
+10000194,2025-12-01 21:23:38.373740,What do you think about this idea?,9920,558,41,125,407,4735,gif,"startups,founder",0,1
+10000473,2025-12-02 00:44:16.289949,Sharing some thoughts on growth and marketing,1729,152,13,26,200,4743,link,"startups,founder",0,0
+10000012,2025-12-02 01:20:53.520594,What do you think about this idea?,2831,190,25,29,92,4751,video,"startups,founder",0,1
+10000178,2025-12-02 03:28:20.708912,Experimenting with different posting times,216,13,1,4,8,4759,none,,0,0
+10000273,2025-12-02 03:28:50.409113,Quick tip for data science beginners,3686,58,22,44,429,4767,none,"marketing,branding",0,0
+10000173,2025-12-02 06:56:08.425801,New blog post is live now!,1782,61,17,16,320,4775,none,"marketing,branding",0,0
+10000177,2025-12-02 07:03:02.111823,Daily coding progress update,4065,291,19,22,420,4783,link,"python,data",0,0
+10000499,2025-12-02 09:00:25.365693,Here is a short thread on learning Python,961,11,8,8,74,4791,link,"python,data",0,1
+10000362,2025-12-02 12:37:56.557628,Daily coding progress update,2522,216,8,26,94,4799,video,,0,0
+10000091,2025-12-02 15:02:15.000664,Sharing my favorite productivity hack,2076,177,3,24,112,4807,none,"marketing,branding",0,0
+10000110,2025-12-02 15:26:51.319863,Sharing some thoughts on growth and marketing,893,29,3,4,163,4815,link,"python,data",0,0
+10000393,2025-12-02 15:42:07.906729,New blog post is live now!,3332,74,33,38,281,4823,image,productivity,0,0
+10000107,2025-12-02 17:14:07.314216,Experimenting with different posting times,2135,163,13,42,326,4831,gif,"python,data",0,1
+10000320,2025-12-02 18:50:58.144886,Building a side project this weekend,8257,184,33,41,350,4839,video,productivity,1,0
+10000476,2025-12-02 19:49:15.026181,Sharing my favorite productivity hack,2445,82,17,40,385,4847,gif,productivity,0,0
+10000315,2025-12-02 19:49:29.497540,Building a side project this weekend,552,28,2,7,36,4855,gif,"marketing,branding",0,1
+10000474,2025-12-02 20:36:00.159236,Building a side project this weekend,470,39,3,7,28,4863,none,productivity,0,0
+10000412,2025-12-02 22:09:12.479469,What do you think about this idea?,12058,1041,57,89,865,4871,image,"startups,founder",0,1
+10000331,2025-12-02 22:32:25.457776,What do you think about this idea?,6948,127,44,82,1258,4879,gif,productivity,0,0
+10000175,2025-12-02 23:22:24.497240,Daily coding progress update,3038,242,24,52,469,4887,image,,0,0
+10000049,2025-12-02 23:54:41.989784,Quick tip for data science beginners,9548,624,64,26,775,4895,video,,0,0
+10000100,2025-12-02 23:59:11.874950,What do you think about this idea?,5292,206,43,34,738,4903,image,"startups,founder",0,0
+10000451,2025-12-02 23:59:38.628855,Trying out a new AI tool,7303,589,48,63,449,4911,link,"python,data",0,0
+10000336,2025-12-03 00:13:41.348975,Trying out a new AI tool,1919,86,16,17,47,4919,gif,"python,data",0,1
+10000450,2025-12-03 01:54:01.182952,Trying out a new AI tool,2287,74,12,26,177,4927,image,"coding,learning",0,1
+10000377,2025-12-03 07:18:22.330842,New blog post is live now!,639,47,1,11,41,4935,video,"marketing,branding",0,0
+10000030,2025-12-03 07:53:35.972837,Experimenting with different posting times,3891,387,10,9,404,4943,gif,productivity,0,0
+10000260,2025-12-03 08:24:33.133929,Experimenting with different posting times,3459,238,7,27,644,4951,none,,0,0
+10000048,2025-12-03 09:58:57.565735,Trying out a new AI tool,3159,81,3,49,515,4959,video,productivity,0,0
+10000043,2025-12-03 10:31:56.016545,Sharing some thoughts on growth and marketing,4242,309,9,18,823,4967,video,"startups,founder",0,0
+10000075,2025-12-03 12:10:52.065381,Quick tip for data science beginners,2100,121,16,38,254,4975,gif,"python,data",0,1
+10000388,2025-12-03 16:24:43.115549,What do you think about this idea?,560,46,3,5,77,4983,link,"marketing,branding",0,0
+10000099,2025-12-03 19:37:28.410213,What do you think about this idea?,2017,48,10,23,40,4991,none,productivity,0,0
+10000127,2025-12-03 22:52:12.112525,What do you think about this idea?,1700,113,12,29,56,5000,gif,"growth,ai",1,0
